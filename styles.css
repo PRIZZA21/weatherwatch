@@ -40,6 +40,23 @@ p,h2{
 }
 .section{height: 80vh;}
 
+.search{
+    
+  
+    font-size: 17px;
+    border: none;
+    cursor: pointer;
+    padding: 0.8rem;
+    background-color: transparent;
+    margin-left: 0.4rem;
+  
+}
+
+
+.searchbox_glass{
+    display: flex;
+}
+
 @media (max-width: 1440px)
 {
     
